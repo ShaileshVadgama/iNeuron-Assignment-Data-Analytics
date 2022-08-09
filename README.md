@@ -1,4 +1,4 @@
-# iNeuron-Assignment-Data-Analytics :
+# iNeuron-Data-Analytics :
 
 1. MySQL Assignments
  * Bulk table creation Basic (25/25)
